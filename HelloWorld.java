@@ -6,8 +6,8 @@ class HelloWorld{
     System.out.println("Learning good ");
     System.out.println("Hmmmm");
     System.out.println("Are wahhh");
-     System.out.println("Hurrerwwewy");
-     System.out.println(" Hello Last Line");
+     System.out.println("hhhjjjjjj");
+     System.out.println(" Hello Last hhhh");
     
   
 
