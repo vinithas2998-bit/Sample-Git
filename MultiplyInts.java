@@ -8,7 +8,7 @@ public class MultiplyInts {
      */
     public int multiply(int a, int b) {
         return a * b;
-    }
+    }   
 
     /**
      * Main method demonstrating multiplication
